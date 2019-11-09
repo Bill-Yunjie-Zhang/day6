@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "airport-data": "^1.0.1",
     "all-the-cities": "^3.0.0"
   }
 }
